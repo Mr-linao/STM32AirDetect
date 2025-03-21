@@ -4,7 +4,7 @@
 
 本系统基于STM32F103C8T6微控制器核心，实时监测室内环境参数（温湿度/空气质量），具备本地显示、智能调控与云端交互三大核心功能。通过MQTT协议上传至HomeAssistant实现数据可视化和硬件控制，可接入主流智能家居生态，例如与小爱同学联动控制灯光以及排气系统开关。
 
-![](.\Doc\img\Air Detector001.png)
+![]([.\Doc\img\Air Detector001.png](https://github.com/Mr-linao/STM32AirDetect/blob/master/Doc/img/Air%20Detector001.png))
 
 ### 主要功能
 
