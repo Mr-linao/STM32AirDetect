@@ -93,7 +93,7 @@ mqtt:
 
 添加完成后按下ESC键回到一般模式，左下角状态栏中–INSERT- 的字样消失，输入:wq回车保存。
 
-<img src="G:\C-Projects\STM32Project\智能室内气体检测系统\Doc\img\HA_Config001.png" style="zoom:50%;" />
+![](https://github.com/Mr-linao/STM32AirDetect/blob/master/Doc/img/HA_Config001.png)
 
 Tips：如果你不知道这个文件在哪里 可以使用` find / -name "configuration.yaml" `命令全盘查找，但这会非常慢。
 
